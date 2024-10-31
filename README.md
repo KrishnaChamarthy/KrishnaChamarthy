@@ -46,8 +46,6 @@ I'm a full-stack web developer and machine learning enthusiast with a passion fo
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krishnachamarthy)](https://github.com/krishnachamarthy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachamarthy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachamarthy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
