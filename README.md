@@ -7,6 +7,7 @@ I'm a Full-Stack Web Developer and a machine learning enthusiast! 💻
 </h2> 
 
 I'm a full-stack web developer and machine learning enthusiast with a passion for building efficient, scalable solutions. Here, you’ll find projects that span web development, data science, and machine learning experiments.
+<br />
 Feel free to have a look at my projects !
 
 ### 🤝 Connect with me:
