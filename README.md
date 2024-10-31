@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm Krishna Chamarthy 👋
 </h3>
 
 <h2 align="center">
@@ -43,25 +43,11 @@ I'm a full-stack web developer and machine learning enthusiast with a passion fo
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🔭 I'm currently working on
-
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
-
-## 🌱 I'm currently learning
-
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krishnachamarthy)](https://github.com/krishnachamarthy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachamarthy&layout=compact)](https://github.com/krishnachamarthy)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
